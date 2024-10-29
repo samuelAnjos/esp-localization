@@ -1,0 +1,1 @@
+Inicialmente é usado o código para vermos o MAC do ESP32, em seguida, se for necessário podemos fazer um scan pelo ambiente, para ver os MAC's disponiveis, e por fim, usar o algoritmo de trilateração para saber a posição do dispositivo a ser localizado.
